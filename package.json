@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/frag997.lwc-kzymovz4-fork-kzyq8eci",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve ticlpRiukxxWpDH3xlgQ --open"
+  }
+}
