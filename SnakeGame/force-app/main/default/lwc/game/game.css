@@ -1,10 +1,11 @@
 .header {
     background: rgb(86, 136, 243);
+    color: white;
 }
 
 .game-container {
-    width: 70vw;
-    height: 60vh;
+    width: 97vw;
+    height: 80vh;
     background: rgb(255, 185, 185);
 }
 
@@ -12,4 +13,5 @@
     width: 20px;
     height: 20px;
     background: rgb(124, 248, 196);
+    display: inline-block;
 }
