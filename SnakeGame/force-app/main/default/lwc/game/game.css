@@ -1,0 +1,15 @@
+.header {
+    background: rgb(86, 136, 243);
+}
+
+.game-container {
+    width: 70vw;
+    height: 60vh;
+    background: rgb(255, 185, 185);
+}
+
+.game-block {
+    width: 20px;
+    height: 20px;
+    background: rgb(124, 248, 196);
+}
