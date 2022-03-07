@@ -9,9 +9,17 @@
     background: rgb(255, 185, 185);
 }
 
-.game-block {
+.game-container div {
     width: 20px;
     height: 20px;
-    background: rgb(124, 248, 196);
+    background: rgb(253, 236, 163);
     display: inline-block;
+}
+
+.snake {
+    background: green !important;
+}
+
+.food {
+    background: red !important;
 }

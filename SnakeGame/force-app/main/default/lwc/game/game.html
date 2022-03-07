@@ -4,7 +4,7 @@
     </div>
     <div class="game-container">
         <template for:each={gameBlocks} for:item="block">
-            <div class="game-block" key={block.id}>
+            <div class={block.class} key={block.id}>
                 {block.id}
             </div>
         </template>
